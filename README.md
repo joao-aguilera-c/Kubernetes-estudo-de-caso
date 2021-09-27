@@ -1,8 +1,8 @@
 # Kubernetes, Estudo de Caso
-Esta é uma versão demo, apenas para teste, de um programa chamado Lista de Tarefas, construido on top de uma arquitetura do Kubernetes.
+Esta é uma versão demo, apenas para teste, de um programa chamado Lista de Tarefas, construído sobre uma arquitetura Kubernetes.
 
 ## App: Lista de Tarefas
-O app é uma limples lista de tarefas, com as funcionalidades de adicionar, excluir e editar tarefas. Escrito em python, html e com DB sqlite
+O app é uma simples lista de tarefas, com as funcionalidades de adicionar, excluir e editar tarefas. Escrito em python, html e com DB sqlite
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68448759/134955365-1ec005ff-f84c-4fb6-a577-e6ff1bdd1db7.PNG" />
