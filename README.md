@@ -5,7 +5,7 @@ Esta é uma versão demo, apenas para teste, de um programa chamado Lista de Tar
 O app é uma simples lista de tarefas, com as funcionalidades de adicionar, excluir e editar tarefas. Escrito em python, html e com DB sqlite
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68448759/134955365-1ec005ff-f84c-4fb6-a577-e6ff1bdd1db7.PNG" />
+  <img src="https://user-images.githubusercontent.com/68448759/135730727-e8dee513-061d-4221-a366-21cc525eed38.PNG" />
 </p>
 
 ### Versão Online
