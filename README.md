@@ -8,6 +8,11 @@ O app é uma simples lista de tarefas, com as funcionalidades de adicionar, excl
   <img src="https://user-images.githubusercontent.com/68448759/134955365-1ec005ff-f84c-4fb6-a577-e6ff1bdd1db7.PNG" />
 </p>
 
+### Versão Online
+O App está também disponível em cloud, rodando sobre a estrutura do Google Cloud Services e pode ser acessado via: https://tarefaspostgres-r2aix6p4na-uw.a.run.app
+O mesmo salva e acessa os dados da lista utilizando uma instância PostgreSQL também hospedada no GCS.
+Para mais informações sobre esta versão, acesse a pasta GCS neste repositório.
+
 ## Arquitetura
 Uma Docker container image foi criada a partir [deste repositório](https://hub.docker.com/repository/docker/aguilerajoao/python).
 A partir desta imagem fiz um deploy localmente utilizando o plugin de kubernetes para docker e sua ferramenta para command-line kubectl, utilizando os seguintes comandos:
