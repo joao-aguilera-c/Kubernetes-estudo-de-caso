@@ -11,7 +11,7 @@ O app é uma simples lista de tarefas, com as funcionalidades de adicionar, excl
 ### Versão Online
 O App está também disponível em cloud, rodando sobre a estrutura do Google Cloud Services e pode ser acessado via: https://tarefaspostgres-r2aix6p4na-uw.a.run.app
 O mesmo salva e acessa os dados da lista utilizando uma instância PostgreSQL também hospedada no GCS.
-Para mais informações sobre esta versão, acesse a pasta G Cloud version neste repositório.
+Para mais informações sobre esta versão, acesse a pasta [G Cloud version](https://github.com/joao-aguilera-c/Kubernetes-estudo-de-caso/tree/master/G%20Cloud%20Version) neste repositório.
 
 ## Arquitetura
 Uma Docker container image foi criada a partir [deste repositório](https://hub.docker.com/repository/docker/aguilerajoao/python).
